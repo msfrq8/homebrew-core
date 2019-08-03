@@ -1,0 +1,3 @@
+workflow "Push" {
+  on = "push"
+}
